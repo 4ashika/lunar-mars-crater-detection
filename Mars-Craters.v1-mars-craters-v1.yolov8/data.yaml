@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['craters']
+
+roboflow:
+  workspace: sameeha-afrulbasha
+  project: mars-craters-gmd0q
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sameeha-afrulbasha/mars-craters-gmd0q/dataset/1

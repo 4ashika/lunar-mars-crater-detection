@@ -1,0 +1,302 @@
+{
+  "010-craters_jpeg.rf.0aea975af6837d57ce469e180d16f386.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "010-craters_jpeg.rf.7180cefaaf241fa539b33a6d8f50a6a8.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "01_insight_mars_express_view_of_cerberus_fossae_jpeg.rf.9833acb008ca82f41746034b9affc5fb.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "01_insight_mars_express_view_of_cerberus_fossae_jpeg.rf.bb0c2b35f045ed4364a9cfa9cd45641c.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "0f6f4175-f948-42cf-9ed3-f3cc646f9600_jpeg.rf.f265678962b14ceac39297c842cdf354.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "1-11-mars-surface_jpeg.rf.223a64840446a2812a819706c74a6db0.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "1-11-mars-surface_jpeg.rf.2313640df675308dec369e82e6a09df1.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "2792_meteorcrater_aer_2007158_lrg_jpeg.rf.87c8264512fc8423dd05ceba01b8361f.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Ares_Vallis_in_perspective_pillars_jpeg.rf.8caaa565c2567d6cd248bad508886824.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Ares_Vallis_in_perspective_pillars_jpeg.rf.f4a00046c4f2024efc3ad632a5fd8bc8.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Arima_twins_pillars_jpeg.rf.38fb67bdf0df4462bbd598a29d199c22.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": 10.204081632653061
+  },
+  "Arima_twins_pillars_jpeg.rf.447b2a1ca476e8b0e615dc108837dcbd.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "BeerMartianCrater_jpeg.rf.4e7d0c84e4626ec2dbe98d5ca4a3958c.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "BeerMartianCrater_jpeg.rf.d781b85b48a7193bb2fdb879798c7522.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "craterssugge_jpeg.rf.30b2b5712dfaec4f9c4a0d4c7f029ed1.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "craterssugge_jpeg.rf.e30b409c2b21e992697eb21746bb5b65.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Crater_Hokusai-_Mercury-_MESSENGER_jpeg.rf.6282bf3df7e4691b2d6680f35927cda7.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Danielson_and_Kalocsa_craters_context_jpeg.rf.c1e8bf6baf74d5df03c9aa515f59b3b7.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "download_jpeg.rf.06974bf7e43c3e9c92a48a452ed9060c.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "download_jpeg.rf.ae6cb0cf464d9f163d26cc768ba802ab.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "expl-craters-l_jpeg.rf.b6c7da4167c871ad1a99fe57ecae9f32.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "expl-craters-l_jpeg.rf.c30824c4ac5cbb354c2f6e6682053bb1.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "FUcasN9ooTHhwUCw9XDdfK-1200-80_jpeg.rf.0d805ffe27b80f7cc18de2fd780b2c9e.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "FUcasN9ooTHhwUCw9XDdfK-1200-80_jpeg.rf.aa1ca6408f00e209e848acf95e5aff16.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "hadleycrater_jpeg.rf.28282ab0bbb83d3b760eb1ab373bc2ff.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "iau1506b_jpeg.rf.0cf282123a13dec1fca378469249bbe6.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "iau1506b_jpeg.rf.7beaf39360901bf89d72039b80197930.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "iau1506e_jpeg.rf.f423bdbfe0774259f7d3eb4d6644e93b.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--1-_jpeg.rf.78d605df1f63054173e9ca762cbec458.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--1-_jpeg.rf.a7861d1c32697f8a34226e3d282b3030.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--2-_jpeg.rf.a19a0f1eab0651fc2db895f2a1dc3a5a.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--3-_jpeg.rf.733f79d57ebeca48f56837de2d7baf30.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--6-_jpeg.rf.ccc6c75308b1233b82a24e7c2583de1b.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--9-_jpeg.rf.346a5f0f70c6df624f678d8237766eea.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "images--9-_jpeg.rf.e7dc1656afdf45c57ed85a7097afc0d7.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Mars-Express-Views-Schiaparelli-Basin_jpeg.rf.e9ee697dd7b2204cfcf04ccd295773a2.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "marscratersh_jpeg.rf.2f4ef4acc6e22077ac312cd46f355cd3.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "marscratersh_jpeg.rf.63c0750246ec87dbc75e9431349aaabe.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "martiancraterplaxco_jpeg.rf.1c9be2c74dd0196f1c681ebd25f6e5ad.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Perspective_view_of_Acidalia_Planitia_and_Tempe_Terra_jpeg.rf.23a403703e0560b9cedf5db38225a769.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Perspective_view_of_Hellespontus_Montes_jpeg.rf.01f24fb213663245753acb2f6873bb5b.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Schiaparelli_crater_by_Viking_orbiter_jpeg.rf.bf179ed309b726271218058c2b92f726.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "Schiaparelli_crater_by_Viking_orbiter_jpeg.rf.c52049221f1f6a4455bcd25468b77249.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "simple-crater_jpeg.rf.0090805fc036854d01a0224c1736c2b1.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "simple-crater_jpeg.rf.e1455314946808ac5e63effa0c7131f4.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "_116931376_my35_010783_165_0_rgbwpan_jezero1_png.rf.0de9fb97e731c5103cf558309e28d4a1.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "_116931376_my35_010783_165_0_rgbwpan_jezero1_png.rf.949f47654509f28ce4be9d9f25da6da1.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "train",
+    "m_per_px": null
+  },
+  "crater-plains-material-image-Mercury-probe-Messenger-Jan-14-2008_jpeg.rf.dc76341a5eba59d2f6d6f56ef80b9bc8.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "Craters-within-the-Hellas-Basin-of-Mars_jpeg.rf.8854c84ae7abfefd01d32d3643b10490.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "images--7-_jpeg.rf.71c1b6609f3dc14ac5e655db323658dc.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "images--8-_jpeg.rf.e8d061a8a5083de6c8cc446522b3d2fb.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "images_jpeg.rf.02e917ab94a7e6c35cb702576560ce7f.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "lunar_complex_12_jpeg.rf.c2dded0ff344f38cb504dc8ef29f7565.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "mars-crater-ft_jpeg.rf.c7b0d556b242cb3da241ece7ea65cfda.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "unnamed_jpeg.rf.c140b80a50beeb70841eeacb40ba3de9.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "_116931370_my35_010430_024_0_rgb_cut_png.rf.72d216d455d373ff68766cd756be09af.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "valid",
+    "m_per_px": null
+  },
+  "140226-space-galle_jpeg.rf.e705d7c1b17fdd645ead38dfe68cee34.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "test",
+    "m_per_px": null
+  },
+  "images--4-_jpeg.rf.d2892953368e178e6ba2e3a70823185a.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "test",
+    "m_per_px": null
+  },
+  "images--5-_jpeg.rf.61135e6bbc650bb0c96b238845e9614d.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "test",
+    "m_per_px": null
+  },
+  "mars-triple-crater-mars-express-2020-e1605045077724_jpeg.rf.5c21a1ccbe0d7c6e30d5b0f08575aab7.jpg": {
+    "sun_elev_deg": 45.0,
+    "split": "test",
+    "m_per_px": null
+  }
+}

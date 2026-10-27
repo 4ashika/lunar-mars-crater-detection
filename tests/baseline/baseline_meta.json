@@ -1,0 +1,26 @@
+{
+  "tile": "Tile 17",
+  "params": {
+    "min_radius": 10,
+    "max_radius": 85,
+    "param2": 24,
+    "min_dist": 20,
+    "max_detections": 45,
+    "clahe_clip": 2.0,
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0
+  },
+  "crater_count": 45,
+  "small": 9,
+  "medium": 32,
+  "large": 4,
+  "mean_diam_m": 16.0307,
+  "max_diam_m": 40.16,
+  "min_diam_m": 6.5,
+  "mean_depth_m": 1.9623,
+  "max_depth_m": 11.9056,
+  "fresh": 0,
+  "slight": 32,
+  "moderate": 8,
+  "heavy": 5
+}

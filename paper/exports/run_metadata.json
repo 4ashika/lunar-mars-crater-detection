@@ -1,0 +1,11 @@
+{
+  "tile_counts": {
+    "Moon": 20,
+    "Mars": 60
+  },
+  "validation_counts": {
+    "Moon": 4,
+    "Mars": 13
+  },
+  "note": "All metrics derive from current repository functions and exported YOLO labels; Mars depth is marked low confidence. Mars tile scale falls back to the per-planet default where no per-tile m_per_px exists."
+}

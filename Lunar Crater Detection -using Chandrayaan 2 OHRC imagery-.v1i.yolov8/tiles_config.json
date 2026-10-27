@@ -1,0 +1,102 @@
+{
+  "14_jpg.rf.eaf17bb886ffc80b08fed4d707d964a0.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "17_jpg.rf.8651f0005258921c54c3a6b340997f0a.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "18_jpg.rf.b1638a0575d9659ee7178296c94e0e30.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "19_jpg.rf.e62ff00b8f0c28fd8ff53c069c771533.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "2_jpg.rf.0ffdaf7fc98b8a0a16a3f00c88bb7faa.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "30_jpg.rf.89e64da231c072c64732ce23da385601.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "34_jpg.rf.3443991c0bbb88ccb01dd9e55ac36f3e.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "38_jpg.rf.2d3032992a10ba240793a1eb4944c11c.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "45_jpg.rf.addead155ea934bef18ea52cacf65ff9.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "52_jpg.rf.5b2c8a95e9db0c805c9ab46012016e5a.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "55_jpg.rf.1ec003195178ff3116f1f0666c9eca72.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "64_jpg.rf.19f86b6b8705ba1b01604b9323ddbb02.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "6_jpg.rf.8eca318e6b54b89554e207fe81b12993.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "82_jpg.rf.55c8d0579097e1c05362f28a11c0006d.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "87_jpg.rf.48b19b6c9396827d13e2ab94729fa161.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "88_jpg.rf.b4fa089da96d4322fea1ff19764b16b0.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "train"
+  },
+  "20_jpg.rf.6a1691350358ddddd656ea0671bcb4e6.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "valid"
+  },
+  "4_jpg.rf.fe9c5d4c9030462df6a2c9cfe57de34c.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "valid"
+  },
+  "91_jpg.rf.ebc95080e1aa5b8bc41ccc4c030df161.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "valid"
+  },
+  "96_jpg.rf.ba42128a708dbed8a71198ceb4ebf116.jpg": {
+    "resolution_m_px": 0.25,
+    "sun_elev_deg": 30.0,
+    "split": "valid"
+  }
+}

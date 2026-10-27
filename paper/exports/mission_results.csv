@@ -1,0 +1,3 @@
+planet,filename,scale_m_per_px,scale_assumed,landing_clearance_m,landing_satisfies_footprint,path_length_m,straight_length_m,detour_percent,straight_craters_crossed,route_craters_crossed,minimum_rim_clearance_m
+Moon,17_jpg.rf.8651f0005258921c54c3a6b340997f0a.jpg,0.25,False,20.999996185302734,True,21.899494936611667,20.248456731316587,8.153896502845859,0,0,1.8245901344713467
+Mars,_116931376_my35_010783_165_0_rgbwpan_jezero1_png.rf.0de9fb97e731c5103cf558309e28d4a1.jpg,5.0,True,590.0,True,625.4163056034262,580.4524097632811,7.7463535483438095,0,0,9.414580487237345
